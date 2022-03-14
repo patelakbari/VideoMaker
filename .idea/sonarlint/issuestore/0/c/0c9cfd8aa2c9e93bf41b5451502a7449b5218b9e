@@ -1,0 +1,20 @@
+
+l	java:S116%"RRename this field "MyPrefs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ÉĞùÿÿÿÿ
+V
+java:S1117`";Rename "context" which hides the field declared at line 39.(³©üÉÿÿÿÿÿ
+‘
+java:S1845á"{Rename method "feedbackTextColor" to prevent any misunderstanding/clash with field "feedBackTextColor" defined on line 308.(•ïön
+?
+java:S1604³"(Make this anonymous inner class a lambda(ÙÿÃÊ
+M
+java:S1874Œ"6Remove this use of "setColorFilter"; it is deprecated.(·³å
+M
+java:S1874"6Remove this use of "setColorFilter"; it is deprecated.(‘”õ¶
+Q
+java:S1161ª":Add the "@Override" annotation above this method signature(Àİì
+h
+java:S3776_"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.( Üó
+R
+java:S1874‹"6Remove this use of "setColorFilter"; it is deprecated.(”ëÙúÿÿÿÿ
+?
+java:S1604½"(Make this anonymous inner class a lambda(èé€»

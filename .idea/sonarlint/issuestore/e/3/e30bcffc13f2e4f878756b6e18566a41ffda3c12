@@ -1,0 +1,9 @@
+
+k	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ Ò¹üÿÿÿÿ
+k	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÓûåùÿÿÿÿ
+o	java:S116"URename this field "video_link" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò„¯³ùÿÿÿÿ
+i	java:S116"TRename this field "video_zip" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û°ô
+h	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Àø–ûÿÿÿÿ
+h	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ Ò¹üÿÿÿÿ
+h	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÓÀŸıÿÿÿÿ
+h	java:S100A"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÓûåùÿÿÿÿ

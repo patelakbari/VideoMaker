@@ -1,0 +1,26 @@
+
+Q	java:S110"<This class has 9 parents which is greater than 5 authorized.(şĞĞÛ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(ŠË•Åÿÿÿÿÿ
+[
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ÓŸü8‡µÃœĞ.
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(ŠË•Åÿÿÿÿÿ
+\
+java:S1858R"A"getPath" returns a string, there's no need to call "toString()".(éÓº½üÿÿÿÿ
+W
+java:S18745"5Remove this use of "addTestDevice"; it is deprecated.(ÆŠ¥Åúÿÿÿÿ8¦€Õ.
+J
+java:S3740"/Provide the parametrized type for this generic.(ŒÌ·şÿÿÿÿ
+a
+java:S1155ˆ">Use isEmpty() to check whether the collection is empty or not.(¬›äŒıÿÿÿÿ8‡µÃœĞ.
+^
+java:S1874>"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(Ú”»¿øÿÿÿÿ
+L
+java:S3740‡"/Provide the parametrized type for this generic.(ãÓğ)8‡µÃœĞ.
+9
+java:S3626"Remove this redundant jump.(ûÁİ…8‡µÃœĞ.
+Z
+java:S1117‡"=Rename "arrayList" which hides the field declared at line 30.(ãÓğ)8‡µÃœĞ.
+‹
+java:S1319<"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ãÑ—Ïÿÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(…È÷Õûÿÿÿÿ

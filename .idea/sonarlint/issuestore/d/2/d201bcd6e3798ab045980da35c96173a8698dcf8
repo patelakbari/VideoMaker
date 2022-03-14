@@ -1,0 +1,11 @@
+
+s
+java:S1450&"VRemove the "context" field and declare it as a local variable in the relevant methods.(ÜÑ®º8ÀıÂıÔ.
+H
+java:S1068&"+Remove this unused "context" private field.(ÜÑ®º8ÀıÂıÔ.
+Y
+java:S1874G"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(•ıãŒ
+m
+java:S1450!"WRemove the "allfiles" field and declare it as a local variable in the relevant methods.(¶äÈÄ
+z
+java:S1450""dRemove the "whatsappStatusAdapter" field and declare it as a local variable in the relevant methods.(‰ˆÏ¸

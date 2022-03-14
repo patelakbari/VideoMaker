@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cc99d60cdd4438d214a8b4590694716a/jetified-play-services-ads-lite-19.4.0/jars/classes.jar!/com/google/android/gms/ads/formats/UnifiedNativeAd.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/Harshil/Mv lyrical maker/app/src/main/java/com/aakashaman/lyricalvideomaker/india/activity/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/IndiApp Solution/Lyrical-Video-Makerindiapp/Mv lyrical maker/app/build/generated/source/buildConfig/debug/com/aakashaman/lyricalvideomaker/india/BuildConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/IndiApp Solution/Lyrical-Video-Makerindiapp/Mv lyrical maker/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/IndiApp Solution/StoryMaker/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/IndiApp Solution/newwave_android_code_NW_4/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/IndiApp Solution/newwave_android_code_NW_4/app/google-services.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/IndiApp Solution/newwave_android_code_NW_4/app/proguard-rules.pro">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/IndiApp Solution/newwave_android_code_NW_4/app/src/main/java/newwave/videomaker/statusmaker/activity/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/IndiApp Solution/newwave_android_code_NW_4/app/src/main/java/newwave/videomaker/statusmaker/adapter/NvVideoViewAdapter1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/IndiApp Solution/newwave_android_code_NW_4/app/src/main/res/layout/contain_main1.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/IndiApp Solution/newwave_android_code_NW_4/app/src/main/res/layout/item_video1.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/IndiApp Solution/newwave_android_code_NW_4/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/Acitivity/AlbumActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/Acitivity/IA_AlbumActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/Acitivity/IA_MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/Acitivity/IA_PhotosActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/Acitivity/IA_Reastorefile.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/Acitivity/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/Acitivity/PhotosActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/AlbumActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/Model/AlbumImage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/Model/AlbumPhoto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/Model/ImageModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/Model/PhotoModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/NoFileActiviy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/PhotosActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/RestoreResultActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/SettingActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/SplashActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/ViewPhotoActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/adapter/AlbumsAdapterNew.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/adapter/Child_ImageDataAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/adapter/IA_AlbumsAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/adapter/IA_ImageAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/adapter/IA_ViewImageAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/adapter/PhotoAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/adapter/SectionListDataAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/adapter/ViewPhotoAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/task/RecoverPhotosAsyncTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/utilts/Config.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/utilts/LoadingDialog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/utilts/MediaScanner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/utilts/RecoverImagesAsyncTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/utilts/RecoverPhotosAsyncTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/utilts/SharePreferenceUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/utilts/Utils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/java/com/testapp/photorecovery/view/SquareImageView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/envato_indiapp/Photo Recovery/app/src/main/res/layout/activity_album.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../InstaStoryMaker/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../InstaStoryMaker/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/aakashaman/lyricalvideomaker/india/BuildConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/newwave/videomaker/statusmaker/BuildConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/proguard-rules.pro">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aakashaman/lyricalvideomaker/india/MyApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aakashaman/lyricalvideomaker/india/Retrofit/SwUserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aakashaman/lyricalvideomaker/india/activity/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aakashaman/lyricalvideomaker/india/adapter/VideoAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aakashaman/lyricalvideomaker/india/adapter/WhatsappStatusAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/aakashaman/lyricalvideomaker/india/fragments/WhatsappStatusFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/aakashaman/lyricalvideomaker/india/activity/AlbumActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/aakashaman/lyricalvideomaker/india/activity/SaveVideoActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/aakashaman/lyricalvideomaker/india/adapter/CategoryAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/lyricalvideomaker/india/activity/AlbumActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/lyricalvideomaker/india/activity/SaveVideoActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/lyricalvideomaker/india/adapter/CategoryAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/Dummy/CenterSmoothScroller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/Dummy/CenterZoomLayoutManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/Dummy/MainActivity1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/Dummy/NV_VideoListActivity1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/Dummy/NvVideoViewAdapter1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/Dummy/PageFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/Dummy/PagerActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/Dummy/SampleAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/Dummy/ScalePageTransformer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/Dummy/SnappingRecyclerView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/Dummy/VideoListActivity1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/MyApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/Retrofit/APIClientData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/Retrofit/APIClientSwag.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/Retrofit/SwUserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/AlbumActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/AlbumdataActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/FullViewActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/FullViewDataActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/MyRatingDialog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/NV_AlbumdataActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/NV_FristActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/NV_FullViewDataActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/NV_LibraryActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/NV_RatingDialog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/NV_SaveVideoFileActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/NV_SessionManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/NV_VideoEditorActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/NV_VideoListActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/NV_VideoTrimActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/NV_WhatsappActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/RatingDialog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/SaveVideoActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/SaveVideoFileActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/SplashscreenActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/VideoEditorActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/VideoListActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/VideoTrimActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/activity/WhatsappActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/adapter/AlbumAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/adapter/CategoryAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/adapter/NvCategoryAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/adapter/NvVideoViewAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/adapter/NvVideoViewAdapter1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/adapter/ShowImagesAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/adapter/VideoAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/adapter/WhatsappStatusAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/fragments/WhatsappSavedFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/fragments/WhatsappStatusDataFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/fragments/WhatsappStatusFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/MyApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/Retrofit/APIClientSwag.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/Retrofit/SwUserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/activity/AlbumActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/activity/FullViewActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/activity/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/activity/MyRatingDialog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/activity/SaveVideoActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/activity/SplashActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/activity/VideoEditorActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/activity/VideoListActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/activity/VideoTrimActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/activity/WhatsappActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/adapter/AlbumAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/adapter/CategoryAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/adapter/HomeAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/adapter/ImageListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/adapter/ShowImagesAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/adapter/VideoAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/adapter/WhatsappStatusAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/fragments/WhatsappSavedFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/fragments/WhatsappStatusFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/utils/AdmobUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/utils/DownloadVideo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/utils/MyUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/utils/PermissionUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/india/utils/ShareImage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/model/ModelOptionsResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/model/VideoviewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/utils/Constant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/utils/IView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/utils/Methods.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/utils/MyAppUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/utils/MyUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/utils/NewView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/utils/ShareImage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/newwave/videomaker/statusmaker/utils/Utils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable-ldpi-v4/gradiant_round_corner.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/bg_card.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/bg_page.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/cat_bg_gradient.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/gradient1.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/gradient2.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/gradient3.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/gradient4.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/gradient5.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/gradient6.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/toolbar_bg.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_album.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_full_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_pager.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_saved.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_video.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_video_editor.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_whatsapp.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/contain_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/contain_main1.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/dialog_rating.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/dummy.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/exo_player_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_page.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_banner_ads.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_category.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_video.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_video1.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/native_ad_layout_1.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/local.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../app code NW3/appcode/app/src/main/java/newwave/videomaker/statusmaker/activity/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../app code NW3/appcode/app/src/main/java/newwave/videomaker/statusmaker/utils/MyAppUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../app code NW3/appcode/app/src/main/res/layout/contain_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../app code NW3/appcode/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../app code NW3/appcode/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zcode/new_wave_video_maker_v3/Newwave Android code/app/build/generated/source/buildConfig/debug/com/videomaker/code/BuildConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zcode/new_wave_video_maker_v3/Newwave Android code/app/src/main/java/com/videomaker/code/activity/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zcode/new_wave_video_maker_v3/Newwave Android code/app/src/main/java/com/videomaker/code/activity/SearchActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../zcode/new_wave_video_maker_v3/Newwave Android code/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/example/24-12/hdwallpaper-10nulled/wall1/Source Code/Android Source Code/HDWallpaper/app/src/main/java/com/vpapps/fragments/FragmentHome.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/example/Demo example/recycleview coustom/Android-SnappingRecyclerView-master/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/example/Demo example/recycleview coustom/Android-SnappingRecyclerView-master/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/example/Demo example/recycleview coustom/Android-SnappingRecyclerView-master/sample/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/example/Demo example/recycleview coustom/Android-SnappingRecyclerView-master/sample/src/main/java/com/muller/snappingsample/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/example/Demo example/recycleview coustom/Android-SnappingRecyclerView-master/sample/src/main/java/com/muller/snappingsample/SnappingRecyclerView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/purchasae code/25-12-2020/mv mastar/Mv lyrical maker/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/purchasae code/25-12-2020/mv mastar/Mv lyrical maker/app/build/generated/source/buildConfig/debug/com/aakashaman/lyricalvideomaker/india/BuildConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/purchasae code/25-12-2020/mv mastar/Mv lyrical maker/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/purchasae code/25-12-2020/mv mastar/Mv lyrical maker/app/src/main/java/com/aakashaman/lyricalvideomaker/india/Retrofit/SwUserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/purchasae code/25-12-2020/mv mastar/Mv lyrical maker/app/src/main/java/com/aakashaman/lyricalvideomaker/india/activity/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/purchasae code/25-12-2020/mv mastar/Mv lyrical maker/app/src/main/java/com/aakashaman/lyricalvideomaker/india/activity/SearchActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/purchasae code/25-12-2020/mv mastar/Mv lyrical maker/app/src/main/java/com/aakashaman/lyricalvideomaker/india/activity/VideoListActivity1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/purchasae code/25-12-2020/mv mastar/Mv lyrical maker/app/src/main/java/com/aakashaman/lyricalvideomaker/india/activity/VideoPreviewActivity1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/purchasae code/25-12-2020/mv mastar/Mv lyrical maker/app/src/main/java/com/aakashaman/lyricalvideomaker/india/adapter/VideoAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/purchasae code/25-12-2020/mv mastar/Mv lyrical maker/app/src/main/java/com/aakashaman/lyricalvideomaker/india/utils/Constant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/purchasae code/25-12-2020/mv mastar/Mv lyrical maker/app/src/main/java/com/aakashaman/lyricalvideomaker/india/utils/Methods.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/purchasae code/25-12-2020/mv mastar/Mv lyrical maker/app/src/main/java/com/aakashaman/lyricalvideomaker/india/utils/SharedPref.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/purchasae code/25-12-2020/mv mastar/Mv lyrical maker/app/src/main/res/layout/activity_preview1.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/purchasae code/25-12-2020/mv mastar/Mv lyrical maker/app/src/main/res/layout/item_category.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/purchasae code/25-12-2020/mv mastar/Mv lyrical maker/app/src/main/res/layout/layout_viewpager_home.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/purchasae code/25-12-2020/mv mastar/Mv lyrical maker/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/purchasae code/25-12-2020/mv mastar/Mv lyrical maker/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/purchasae code/25-12-2020/mv mastar/Mv lyrical maker/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="G:/purchasae code/Mv lyrical maker/app/build/generated/source/buildConfig/debug/com/aakashaman/lyricalvideomaker/india/BuildConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

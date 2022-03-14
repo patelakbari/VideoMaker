@@ -1,0 +1,23 @@
+
+Y
+java:S2696Ğ"6Make the enclosing method "static" or remove this set.(µé¼äıÿÿÿÿ8ıÕŠÕÕ.
+€
+java:S1157?"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ûéƒ•8©Úø³Õ.
+]
+java:S1874Ÿ":Remove this use of "getVideoController"; it is deprecated.(ÂÖáıÿÿÿÿ8©Úø³Õ.
+E
+java:S1172S"(Remove this unused method parameter "i".(´âÓÅ8©Úø³Õ.
+p
+java:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Û®«‹8©Úø³Õ.
+–
+java:S13196"tThe type of the "arrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(öı¶Çşÿÿÿÿ8©Úø³Õ.
+Q
+java:S1874f"5Remove this use of "addTestDevice"; it is deprecated.(§ˆÆ8©Úø³Õ.
+l
+java:S1874c"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(‡Ë°¼üÿÿÿÿ8©Úø³Õ.
+’
+java:S1319I"uThe type of the "dataListMe" object should be an interface such as "List" rather than the implementation "ArrayList".(Ô°¯ï8¶¹ùÕÕ.
+]
+java:S1117T";Rename "context" which hides the field declared at line 50.(“µËêøÿÿÿÿ8©Úø³Õ.
+F
+java:S1185£"(Remove this method to simply inherit it.(ÒŞ¬Ù8©Úø³Õ.

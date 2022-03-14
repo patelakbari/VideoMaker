@@ -1,0 +1,12 @@
+
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(»¸©à
+p
+java:S1104"ZMake notificationId a static final constant or non-public and provide accessors if needed.(º®ÐÌ
+h
+java:S1104"RMake player a static final constant or non-public and provide accessors if needed.(˜äø
+L
+java:S2589"7Remove this expression which always evaluates to "true"(—å¦=
+U
+java:S1161":Add the "@Override" annotation above this method signature(Õç¹ìøÿÿÿÿ
+>
+java:S1905!")Remove this unnecessary cast to "String".(á´ÆT

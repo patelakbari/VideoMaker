@@ -1,0 +1,187 @@
+
+F
+java:S1874†"/Remove this use of "execute"; it is deprecated.(åú»Ä
+U
+java:S1854ï"7Remove this useless assignment to local variable "str".(Ù›å¡8ÈâÕ.
+j
+java:S4042¡"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²½¢Ìúÿÿÿÿ
+L
+java:S1172³"5Remove this unused method parameter "nativeAdLayout".(Ã¶­Ì
+¤
+java:S1186Ø"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÈÈİ‘şÿÿÿÿ8°ÚÇáÕ.
+
+java:S1186Å"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Á…‘8ÈâÕ.
+Q
+java:S1874¼".Remove this use of "cancel"; it is deprecated.(Ã½Ûåùÿÿÿÿ8ÈâÕ.
+n
+java:S3776İ"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(úùóüÿÿÿÿ
+T
+java:S1117Ÿ"6Rename "i" which hides the field declared at line 116.(ÂÒ»é8ÈâÕ.
+X
+java:S1118Ô":Add a private constructor to hide the implicit public one.(íòÈÛ8ÈâÕ.
+l
+java:S2095„"IUse try-with-resources or close this "InputStream" in a "finally" clause.(­âàÿÿÿÿÿ8°ÚÇáÕ.
+g
+java:S1874Å"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Á…‘8ÈâÕ.
+j	java:S101ß"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷©Æî8ÈâÕ.
+f
+java:S1450{"PRemove the "K" field and declare it as a local variable in the relevant methods.(•¢êÉ
+k
+java:S2095‡"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(’ªŠ/8°ÚÇáÕ.
+X
+java:S1141ı"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÈâÕ.
+X
+java:S1874Ô"5Remove this use of "addTestDevice"; it is deprecated.(ÌõÒşÿÿÿÿ8³ãèĞ.
+W
+java:S1161Å":Add the "@Override" annotation above this method signature(Á…‘8ÈâÕ.
+K
+java:S1172Æ"/Remove this unused method parameter "cardView".(£Ù‰³şÿÿÿÿ
+Ÿ
+java:S1186È"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ê¸ëÒ8°ÚÇáÕ.
+j	java:S101å"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ç‡Àö8ÈâÕ.
+w
+java:S1104q"UMake flagVideo a static final constant or non-public and provide accessors if needed.(¤’Ù„ûÿÿÿÿ8Ø´óãÕ.
+_
+java:S1874ì"<Remove this use of "DefaultTrackSelector"; it is deprecated.(÷úÉïıÿÿÿÿ8°ÚÇáÕ.
+f
+java:S1874é"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(Üù«Ïüÿÿÿÿ8ÈâÕ.
+ƒ
+java:S1104r"aMake resizedVideoPathFinal a static final constant or non-public and provide accessors if needed.(Š³¨îıÿÿÿÿ8Ó†óãÕ.
+M
+java:S2696¨"6Make the enclosing method "static" or remove this set.(ÌÈØì
+¤
+java:S1186²"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©½šûÿÿÿÿ8°ÚÇáÕ.
+p
+java:S3776å"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ŠäÎ8ÈâÕ.
+j
+java:S4042«"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ƒ”–ñúÿÿÿÿ
+V
+java:S1161Á":Add the "@Override" annotation above this method signature(‡Ë°¼üÿÿÿÿ
+I
+java:S1481ø"+Remove this unused "stream" local variable.(øºã8ÈâÕ.
+Q
+java:S1874µ".Remove this use of "cancel"; it is deprecated.(Ã½Ûåùÿÿÿÿ8ÈâÕ.
+M
+java:S1874ñ"/Remove this use of "Factory"; it is deprecated.(ğÌˆØ8°ÚÇáÕ.
+V
+java:S1874ü":Remove this use of "getVideoController"; it is deprecated.(ÂÖáıÿÿÿÿ
+M
+java:S2696´"6Make the enclosing method "static" or remove this set.(ºˆÂ¬
+X
+java:S1161Û":Add the "@Override" annotation above this method signature(°ëÁÖ8°ÚÇáÕ.
+a	java:S116{"LRename this field "K" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¢êÉ
+O
+java:S1481ü",Remove this unused "jsonStr" local variable.(×ÒÔÒıÿÿÿÿ8ÈâÕ.
+u
+java:S3776á"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ÿ¥÷úÿÿÿÿ8°ÚÇáÕ.
+;
+java:S1068{"%Remove this unused "K" private field.(•¢êÉ
+I
+java:S1199€"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+X
+java:S1075œ"ARefactor your code to get this URI from a customizable parameter.(€Ò…²
+Q
+java:S1874Ù"3Remove this use of "SimpleCache"; it is deprecated.(“ù‰í8ÈâÕ.
+>
+java:S1068z")Remove this unused "mathc" private field.(‰ãÀ
+]
+java:S1444r";Make this "public static resizedVideoPathFinal" field final(Š³¨îıÿÿÿÿ8Ó†óãÕ.
+n
+java:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(åÁ°Ôùÿÿÿÿ
+p
+java:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ËƒÛÇ8°ÚÇáÕ.
+P
+java:S1905Ã"2Remove this unnecessary cast to "OnClickListener".(óÜú•8ÈâÕ.
+|
+java:S4144¾"YUpdate this method so that its implementation is not identical to "callback" on line 179.(šÏ¬èøÿÿÿÿ8‹Î·àÕ.
+c
+java:S1192‚"GDefine a constant instead of duplicating this literal "images" 5 times.(£™†»şÿÿÿÿ
+R
+java:S1066"/Merge this if statement with the enclosing one.(öÎä°şÿÿÿÿ8°ÚÇáÕ.
+l
+java:S1192¶"IDefine a constant instead of duplicating this literal "videourl" 3 times.(ø€İÑşÿÿÿÿ8‹Î·àÕ.
+?
+java:S1185ÿ"(Remove this method to simply inherit it.(ÒŞ¬Ù
+T
+java:S2696ò"6Make the enclosing method "static" or remove this set.(ÌÈØì8ÈâÕ.
+M
+java:S2696‘"6Make the enclosing method "static" or remove this set.(ŠÀ¨§
+2
+java:S3878†"Remove this array creation.(åú»Ä
+U
+java:S1905µ"2Remove this unnecessary cast to "OnClickListener".(îÆÆÿùÿÿÿÿ8ÈâÕ.
+F
+java:S1481ï"(Remove this unused "str" local variable.(Ù›å¡8ÈâÕ.
+T
+java:S1117˜"6Rename "i" which hides the field declared at line 116.(ÂÒ»é8ÈâÕ.
+q
+java:S1192ˆ"NDefine a constant instead of duplicating this literal "static_inputs" 3 times.(Ê˜Šøúÿÿÿÿ8ÈâÕ.
+V	java:S110o"<This class has 9 parents which is greater than 5 authorized.(½ü¤åûÿÿÿÿ
+Ÿ
+java:S1186¶"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õ€í8°ÚÇáÕ.
+Q
+java:S1141ü"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+m
+java:S1192Š"QDefine a constant instead of duplicating this literal "video_resolution" 3 times.(ôƒ¢íúÿÿÿÿ
+O
+java:S1602µ",Remove useless curly braces around statement(îÆÆÿùÿÿÿÿ8ÈâÕ.
+\
+java:S1874ì"9Remove this use of "newSimpleInstance"; it is deprecated.(÷úÉïıÿÿÿÿ8°ÚÇáÕ.
+Z
+java:S1874"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(»›Çû
+Ÿ
+java:S1186Ô"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“‰íö8°ÚÇáÕ.
+J
+java:S1602Ã",Remove useless curly braces around statement(óÜú•8ÈâÕ.
+T
+java:S1117¦"6Rename "i" which hides the field declared at line 116.(ÂÒ»é8ÈâÕ.
+Ÿ
+java:S1186Ì"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(üåŠ8°ÚÇáÕ.
+X
+java:S1854ú":Remove this useless assignment to local variable "stream".(Á«…–8ÈâÕ.
+e
+java:S1192"IDefine a constant instead of duplicating this literal "duration" 4 times.(Ä³†şÿÿÿÿ
+k
+java:S2095ú"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Á«…–8ÈâÕ.
+P
+java:S1068ƒ"4Remove this unused "downloadFileName" private field.(ƒü‚„üÿÿÿÿ
+b
+java:S1192‹"FDefine a constant instead of duplicating this literal "video" 3 times.(“Œ©¡øÿÿÿÿ
+I
+java:S1068|".Remove this unused "myListener" private field.(©Ş‹úÿÿÿÿ
+Ÿ
+java:S1186Û"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°ëÁÖ8°ÚÇáÕ.
+
+java:S1186Á"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‡Ë°¼üÿÿÿÿ
+X
+java:S1141ù"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÈâÕ.
+U
+java:S1905º"2Remove this unnecessary cast to "OnClickListener".(ï·ù³ÿÿÿÿÿ8ÈâÕ.
+M
+java:S2696’"6Make the enclosing method "static" or remove this set.(ÌÈØì
+Q
+java:S1444q"/Make this "public static flagVideo" field final(¤’Ù„ûÿÿÿÿ8Ø´óãÕ.
+Q
+java:S1161ÿ":Add the "@Override" annotation above this method signature(ÒŞ¬Ù
+R
+java:S1117›"6Rename "i" which hides the field declared at line 116.(Ù·¿ñşÿÿÿÿ
+Q
+java:S1874Ã"5Remove this use of "addTestDevice"; it is deprecated.(Öğ”îüÿÿÿÿ
+f
+java:S1874Á"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(‡Ë°¼üÿÿÿÿ
+m
+java:S1874Ø"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÈÈİ‘şÿÿÿÿ8°ÚÇáÕ.
+O
+java:S1874ß"1Remove this use of "AsyncTask"; it is deprecated.(÷©Æî8ÈâÕ.
+I
+java:S1075ğ"&Remove this hard-coded path-delimiter.(‰ŞÜàüÿÿÿÿ8ÈâÕ.
+¤
+java:S1186Ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷õÜ‚ûÿÿÿÿ8°ÚÇáÕ.
+f
+java:S1874ğ"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(‰ŞÜàüÿÿÿÿ8ÈâÕ.
+?
+java:S1604"(Make this anonymous inner class a lambda(»›Çû
+M
+java:S1874¬"/Remove this use of "Handler"; it is deprecated.(õÊëì8‹Î·àÕ.
+[
+java:S1874ì"8Remove this use of "ExoPlayerFactory"; it is deprecated.(÷úÉïıÿÿÿÿ8°ÚÇáÕ.

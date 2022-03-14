@@ -1,0 +1,57 @@
+
+p
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ÚÞ£Ô8¦Ç¾ÜÕ.
+Ÿ
+java:S1186µ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ªÝ¥Î8¦Ç¾ÜÕ.
+M
+java:S1066»"/Merge this if statement with the enclosing one.(Ø‚¿³8¥Ç¾ÜÕ.
+R
+java:S1874¼"5Remove this use of "addTestDevice"; it is deprecated.(§ˆÆ8ÃôÜ×Õ.
+|
+java:S1450j"ZRemove the "simpleCache" field and declare it as a local variable in the relevant methods.(½õ­ôøÿÿÿÿ8•Òä¹Õ.
+X	java:S110\"<This class has 9 parents which is greater than 5 authorized.(ƒ›“ð8•Òä¹Õ.
+¤
+java:S1186ú"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“é¯êýÿÿÿÿ8¥Ç¾ÜÕ.
+Ÿ
+java:S1186‰"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(õ€í8¦Ç¾ÜÕ.
+F
+java:S1185ù"(Remove this method to simply inherit it.(ÒÞ¬Ù8ÃôÜ×Õ.
+q
+java:S4042­"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(Ò¦ˆ™øÿÿÿÿ8¦Ç¾ÜÕ.
+¤
+java:S1186¹"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ûØŠøüÿÿÿÿ8¦Ç¾ÜÕ.
+g
+java:S1874ä"IRemove this use of "getExternalStoragePublicDirectory"; it is deprecated.(‹óžª8¦Ç¾ÜÕ.
+‡
+java:S1450k"eRemove the "cacheDataSourceFactory" field and declare it as a local variable in the relevant methods.(¹è£Âùÿÿÿÿ8•Òä¹Õ.
+W	java:S899§";Do something with the "boolean" value returned by "delete".(Œ‹°8ÃôÜ×Õ.
+~
+java:S3923à"[Remove this conditional structure or edit its code blocks so that they're not all the same.(šÈÐùüÿÿÿÿ8¦Ç¾ÜÕ.
+]	java:S899­";Do something with the "boolean" value returned by "delete".(Ò¦ˆ™øÿÿÿÿ8¦Ç¾ÜÕ.
+K
+java:S1185 "(Remove this method to simply inherit it.(²öèÏüÿÿÿÿ8¦Ç¾ÜÕ.
+R
+java:S1066ñ"/Merge this if statement with the enclosing one.(öÎä°þÿÿÿÿ8¥Ç¾ÜÕ.
+ž
+java:S1186õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(íåªO8¥Ç¾ÜÕ.
+k
+java:S4042§"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(Œ‹°8ÃôÜ×Õ.
+K
+java:S1185“"(Remove this method to simply inherit it.(œƒƒ©ùÿÿÿÿ8¦Ç¾ÜÕ.
+¤
+java:S1186ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘Áˆðúÿÿÿÿ8¥Ç¾ÜÕ.
+ž
+java:S1186Ù"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥‚í}8¥Ç¾ÜÕ.
+K	java:S108·")Either remove or fill this block of code.(´¹žÓÿÿÿÿÿ8ÞæããÕ.
+M
+java:S2093”"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¦Ç¾ÜÕ.
+¤
+java:S1186Ž"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷õÜ‚ûÿÿÿÿ8¦Ç¾ÜÕ.
+m
+java:S1874¹"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(‡Ë°¼üÿÿÿÿ8ÃôÜ×Õ.
+Ÿ
+java:S1186„"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(°žì¿8¦Ç¾ÜÕ.
+]
+java:S1874õ":Remove this use of "getVideoController"; it is deprecated.(ÂÖáýÿÿÿÿ8ÃôÜ×Õ.
+Y
+java:S11282"<Remove this unused import 'com.facebook.ads.InterstitialAd'.(ý†÷Ê8êÎŽäÕ.

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "234743968152",
+    "firebase_url": "https://mvmaker-6f3fe.firebaseio.com",
+    "project_id": "mvmaker-6f3fe",
+    "storage_bucket": "mvmaker-6f3fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234743968152:android:9e61379fb170d4930c3bed",
+        "android_client_info": {
+          "package_name": "newwave.videomaker.statusmaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234743968152-fioa0lptf0ij7v7berahisvok5levkts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2GBOD20fruxqm2xte0a-dDyEhHAUBNbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234743968152-fioa0lptf0ij7v7berahisvok5levkts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

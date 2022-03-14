@@ -1,0 +1,43 @@
+
+E
+java:S3740B"/Provide the parametrized type for this generic.(¤¶Ÿ€
+B
+java:S23865"'Make member "sPermissions" "protected".(ŞŠ‚şÿÿÿÿ
+l
+java:S1104O"WMake displayName a static final constant or non-public and provide accessors if needed.(×Óìu
+’
+java:S1319"wThe type of the "sPermissions" object should be an interface such as "List" rather than the implementation "ArrayList".(áÆşÿÿÿÿ
+
+java:S1319A"tThe type of the "arrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(ïŠïıùÿÿÿÿ
+J
+java:S37403"/Provide the parametrized type for this generic.(á™ªñúÿÿÿÿ
+M
+java:S1444"2Make this "public static sPermissions" field final(áÆşÿÿÿÿ
+J
+java:S3740:"/Provide the parametrized type for this generic.(ÎıúÇùÿÿÿÿ
+E
+java:S3740B"/Provide the parametrized type for this generic.(¤¶Ÿ€
+J
+java:S3740!"/Provide the parametrized type for this generic.(ÎıúÇùÿÿÿÿ
+T
+java:S11554">Use isEmpty() to check whether the collection is empty or not.(ú£âã
+k
+java:S1104P"UMake isGranted a static final constant or non-public and provide accessors if needed.(»œÛ
+p
+java:S1104Q"ZMake permissionName a static final constant or non-public and provide accessors if needed.(’¤‚¼
+s
+java:S1104"XMake sPermissions a static final constant or non-public and provide accessors if needed.(áÆşÿÿÿÿ
+Q
+java:S37405"/Provide the parametrized type for this generic.(ŞŠ‚şÿÿÿÿ8¥¦°äÕ.
+L
+java:S3740C"/Provide the parametrized type for this generic.(ã¦İ°8¥¦°äÕ.
+Q
+java:S1128"4Remove this unused import 'android.content.Context'.(©Ê‰è8¥¦°äÕ.
+R
+java:S1128"5Remove this unused import 'android.os.Build.VERSION'.(Ø…ş²8¥¦°äÕ.
+n
+java:S1128	"QRemove this unused import 'com.aakashaman.lyricalvideomaker.india.MyApplication'.(ò›œù8¥¦°äÕ.
+:
+java:S1118"Hide this public constructor.(¦Œº8¥¦°äÕ.
+D
+java:S3010"'Remove this assignment of "appContext".(”âöÓ8¥¦°äÕ.

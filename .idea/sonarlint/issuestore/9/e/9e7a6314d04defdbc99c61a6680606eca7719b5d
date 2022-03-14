@@ -1,0 +1,27 @@
+
+W
+java:S1874R"5Remove this use of "addTestDevice"; it is deprecated.(¯ÆÚ³øÿÿÿÿ8ŒƒöÈĞ.
+X
+java:S1161":Add the "@Override" annotation above this method signature(ÒŞ¬Ù8ŒƒöÈĞ.
+]
+java:S1874‹":Remove this use of "getVideoController"; it is deprecated.(ÂÖáıÿÿÿÿ8ŒƒöÈĞ.
+\
+java:S1161O":Add the "@Override" annotation above this method signature(‡Ë°¼üÿÿÿÿ8ŒƒöÈĞ.
+W
+java:S1874R"5Remove this use of "addTestDevice"; it is deprecated.(¯ÆÚ³øÿÿÿÿ8ŒƒöÈĞ.
+W
+java:S1874R"5Remove this use of "addTestDevice"; it is deprecated.(¯ÆÚ³øÿÿÿÿ8ŒƒöÈĞ.
+‘
+java:S13190"tThe type of the "arrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(ğ«Ö 8ŒƒöÈĞ.
+l
+java:S1874O"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(‡Ë°¼üÿÿÿÿ8ŒƒöÈĞ.
+X
+java:S1161™":Add the "@Override" annotation above this method signature(¨œ†8ŒƒöÈĞ.
+F
+java:S1185"(Remove this method to simply inherit it.(ÒŞ¬Ù8ŒƒöÈĞ.
+E
+java:S11729"(Remove this unused method parameter "i".(´âÓÅ8ŒƒöÈĞ.
+W
+java:S1874R"5Remove this use of "addTestDevice"; it is deprecated.(¯ÆÚ³øÿÿÿÿ8ŒƒöÈĞ.
+Q
+java:S1172U"/Remove this unused method parameter "cardView".(£Ù‰³şÿÿÿÿ8ŒƒöÈĞ.

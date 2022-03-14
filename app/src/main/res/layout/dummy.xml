@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+<!--    <View-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="60dp"-->
+<!--        android:background="@drawable/main_top_gradient"-->
+<!--        app:layout_constraintEnd_toEndOf="0"0-->
+<!--        app:layout_constraintStart_toStartOf="0"-->
+<!--        app:layout_constraintTop_toTopOf="0" />-->
+
+<!--    <SurfaceView-->
+<!--        android:id="@+id/surface_view"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:layout_centerHorizontal="true"-->
+<!--        android:layout_centerVertical="true"-->
+<!--        app:layout_constraintBottom_toBottomOf="0"-->
+<!--        app:layout_constraintEnd_toEndOf="0"-->
+<!--        app:layout_constraintStart_toStartOf="0"-->
+<!--        app:layout_constraintTop_toTopOf="0" />-->
+
+<!--    <ViewStub-->
+<!--        android:id="@+id/stub_video_debug"-->
+<!--        android:layout_width="0dp"-->
+<!--        android:layout_height="0dp"-->
+<!--        android:layout="@layout/view_video_debug"-->
+<!--        app:layout_constraintBottom_toTopOf="@+id/recycler_view"-->
+<!--        app:layout_constraintEnd_toEndOf="0"-->
+<!--        app:layout_constraintStart_toStartOf="0"-->
+<!--        app:layout_constraintTop_toTopOf="0" />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/main_background"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:scaleType="centerCrop" />-->
+
+<!--    <View-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="250dp"-->
+<!--        android:background="@drawable/main_selected_background"-->
+<!--        app:layout_constraintBottom_toBottomOf="0" />-->
+
+<!--    <androidx.recyclerview.widget.RecyclerView-->
+<!--        android:id="@+id/recycler_view"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_centerHorizontal="true"-->
+<!--        android:layout_centerVertical="true"-->
+<!--        android:layout_marginBottom="127dp"-->
+<!--        android:clipToPadding="false"-->
+<!--        app:layout_constraintBottom_toBottomOf="0"-->
+<!--        app:layout_constraintEnd_toEndOf="0"-->
+<!--        app:layout_constraintStart_toStartOf="0" />-->
+
+<!--    <com.yxcrop.gifshow.state.view.StateTextView-->
+<!--        android:id="@+id/advertising_btn"-->
+<!--        android:layout_width="217dp"-->
+<!--        android:layout_height="47dp"-->
+<!--        android:layout_marginBottom="60dp"-->
+<!--        android:background="@drawable/mv_btn_advertising_normal"-->
+<!--        android:fontFamily="sans-serif-medium"-->
+<!--        android:gravity="center"-->
+<!--        android:text="@string/start_making"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:textSize="16sp"-->
+<!--        android:visibility="gone"-->
+<!--        app:layout_constraintBottom_toBottomOf="0"-->
+<!--        app:layout_constraintEnd_toEndOf="0"-->
+<!--        app:layout_constraintStart_toStartOf="0" />-->
+
+<!--    <com.yxcrop.gifshow.state.view.StateTextView-->
+<!--        android:id="@+id/start_making_btn"-->
+<!--        android:layout_width="217dp"-->
+<!--        android:layout_height="47dp"-->
+<!--        android:layout_marginBottom="60dp"-->
+<!--        android:background="@drawable/mv_btn_background_normal"-->
+<!--        android:fontFamily="sans-serif-medium"-->
+<!--        android:gravity="center"-->
+<!--        android:text="@string/start_making"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:textSize="16sp"-->
+<!--        app:layout_constraintBottom_toBottomOf="0"-->
+<!--        app:layout_constraintEnd_toEndOf="0"-->
+<!--        app:layout_constraintStart_toStartOf="0" />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/loading_progress"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:src="@drawable/mv_loading"-->
+<!--        android:visibility="gone"-->
+<!--        app:layout_constraintBottom_toBottomOf="0"-->
+<!--        app:layout_constraintEnd_toEndOf="0"-->
+<!--        app:layout_constraintStart_toStartOf="0"-->
+<!--        app:layout_constraintTop_toTopOf="0" />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/iv_mine"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        android:layout_marginEnd="10dp"-->
+<!--        android:src="@drawable/mv_nav_btn_mine"-->
+<!--        app:layout_constraintEnd_toEndOf="0"-->
+<!--        app:layout_constraintTop_toTopOf="0" />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/iv_ai_icon"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:src="@drawable/img_ai"-->
+<!--        android:visibility="invisible"-->
+<!--        app:layout_constraintEnd_toEndOf="@+id/iv_mine"-->
+<!--        app:layout_constraintTop_toTopOf="@+id/iv_mine" />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/red_point_view"-->
+<!--        android:layout_width="6dp"-->
+<!--        android:layout_height="6dp"-->
+<!--        android:layout_marginTop="5dp"-->
+<!--        android:src="@drawable/red_point"-->
+<!--        android:visibility="gone"-->
+<!--        app:layout_constraintEnd_toEndOf="@+id/iv_mine"-->
+<!--        app:layout_constraintTop_toTopOf="@+id/iv_mine" />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/msg_point_view"-->
+<!--        android:layout_width="6dp"-->
+<!--        android:layout_height="6dp"-->
+<!--        android:layout_marginTop="5dp"-->
+<!--        android:src="@drawable/blue_point"-->
+<!--        android:visibility="gone"-->
+<!--        app:layout_constraintEnd_toEndOf="@+id/iv_mine"-->
+<!--        app:layout_constraintTop_toTopOf="@+id/iv_mine" />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/iv_featured"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginStart="10dp"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        android:src="@drawable/mv_nav_btn_featured"-->
+<!--        app:layout_constraintStart_toStartOf="0"-->
+<!--        app:layout_constraintTop_toTopOf="0" />-->
+
+<!--    <com.yxcrop.gifshow.state.view.StateTextView-->
+<!--        android:id="@+id/tv_select"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="15dp"-->
+<!--        android:background="@drawable/selector_photo_bg_default"-->
+<!--        android:paddingStart="15dp"-->
+<!--        android:paddingTop="6dp"-->
+<!--        android:paddingEnd="15dp"-->
+<!--        android:paddingBottom="6dp"-->
+<!--        android:text="@string/select_photo"-->
+<!--        android:textColor="@color/white"-->
+<!--        app:layout_constraintEnd_toEndOf="0"-->
+<!--        app:layout_constraintStart_toStartOf="0"-->
+<!--        app:layout_constraintTop_toTopOf="0" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/debug_info"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginStart="20dp"-->
+<!--        android:layout_marginTop="70dp"-->
+<!--        android:visibility="gone"-->
+<!--        app:layout_constraintStart_toStartOf="0"-->
+<!--        app:layout_constraintTop_toTopOf="0" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/tv_library"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="41dp"-->
+<!--        android:background="@drawable/mv_home_icon_up_normal"-->
+<!--        android:gravity="center"-->
+<!--        android:paddingStart="35dp"-->
+<!--        android:paddingEnd="35dp"-->
+<!--        android:text="@string/library"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:textSize="16sp"-->
+<!--        android:visibility="gone"-->
+<!--        app:layout_constraintBottom_toBottomOf="0"-->
+<!--        app:layout_constraintEnd_toEndOf="0"-->
+<!--        app:layout_constraintStart_toStartOf="0" />-->
+
+<!--    <View-->
+<!--        android:id="@+id/library_point"-->
+<!--        android:layout_width="6dp"-->
+<!--        android:layout_height="6dp"-->
+<!--        android:layout_marginTop="8dp"-->
+<!--        android:background="@drawable/red_point"-->
+<!--        android:visibility="gone"-->
+<!--        app:layout_constraintEnd_toEndOf="@+id/tv_library"-->
+<!--        app:layout_constraintHorizontal_bias="0.75"-->
+<!--        app:layout_constraintStart_toStartOf="@+id/tv_library"-->
+<!--        app:layout_constraintTop_toTopOf="@+id/tv_library" />-->
+
+<!--    <LinearLayout-->
+<!--        android:id="@+id/library_guide"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:orientation="vertical"-->
+<!--        android:visibility="gone"-->
+<!--        app:layout_constraintBottom_toBottomOf="0">-->
+
+<!--        <View-->
+<!--            android:id="@+id/library_guide_shadow"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="50dp"-->
+<!--            android:background="@drawable/library_guide_bg" />-->
+
+<!--        <ImageView-->
+<!--            android:id="@+id/library_guide_image"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="83dp"-->
+<!--            android:scaleType="fitXY"-->
+<!--            android:src="@drawable/library_img" />-->
+<!--    </LinearLayout>-->
+<!--</androidx.constraintlayout.widget.ConstraintLayout>-->

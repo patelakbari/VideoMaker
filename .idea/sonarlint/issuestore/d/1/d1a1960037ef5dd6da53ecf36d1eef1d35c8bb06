@@ -1,0 +1,23 @@
+
+‹
+java:S1319("uThe type of the "dataListMe" object should be an interface such as "List" rather than the implementation "ArrayList".(Ô°¯ï
+k
+java:S3252#"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(±á£Ùøÿÿÿÿ
+i
+java:S1104"SMake context a static final constant or non-public and provide accessors if needed.(³™²
+x
+java:S1488$"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(º—
+<
+java:S1659D"&Declare "download" on a separate line.(—’¤
+o
+java:S1104"TMake dataList a static final constant or non-public and provide accessors if needed.(¤ŠÉ™üÿÿÿÿ
+
+java:S1319"sThe type of the "dataList" object should be an interface such as "List" rather than the implementation "ArrayList".(¡ŞŠ©şÿÿÿÿ
+A
+java:S1659D"$Declare "useNow" on a separate line.(—’¤8¸´‡¬Õ.
+
+java:S1319"sThe type of the "dataList" object should be an interface such as "List" rather than the implementation "ArrayList".(¤ŠÉ™üÿÿÿÿ
+k
+java:S3252#"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(±á£Ùøÿÿÿÿ
+o
+java:S1104"TMake listener a static final constant or non-public and provide accessors if needed.(Ìµıÿÿÿÿ

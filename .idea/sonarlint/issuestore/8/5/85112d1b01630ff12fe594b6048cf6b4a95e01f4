@@ -1,0 +1,65 @@
+
+R
+java:S1874i"5Remove this use of "addTestDevice"; it is deprecated.(¼ò•ƒ8¯æªäÕ.
+¤
+java:S1186Î"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(â·Ş…úÿÿÿÿ8¯æªäÕ.
+W
+java:S1118.":Add a private constructor to hide the implicit public one.(ËñÎß8ËÌÈ«Õ.
+e
+java:S18741"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(ó Êñûÿÿÿÿ8¯æªäÕ.
+`
+java:S1874Ò"BRemove this use of "getSystemWindowInsetBottom"; it is deprecated.(ß—Şº8­¡ªäÕ.
+d
+java:S1874Î"ARemove this use of "replaceSystemWindowInsets"; it is deprecated.(Ã¡îçÿÿÿÿÿ8¯æªäÕ.
+c
+java:S1874ß"@Remove this use of "getSystemWindowInsetLeft"; it is deprecated.(‡âÇ‚ıÿÿÿÿ8Ø¥©äÕ.
+H
+java:S10751"&Remove this hard-coded path-delimiter.(ó Êñûÿÿÿÿ8¯æªäÕ.
+d
+java:S1874á"ARemove this use of "getSystemWindowInsetRight"; it is deprecated.(Õ©ùÿÿÿÿ8Ø¥©äÕ.
+S
+java:S1874´"5Remove this use of "addTestDevice"; it is deprecated.(şìÈ8¯æªäÕ.
+U
+java:S1874v"8Remove this use of "onAdFailedToLoad"; it is deprecated.( ÈÀ–8­¡ªäÕ.
+H
+java:S5411¥"*Use the primitive boolean expression here.(’éÏ¡8¯æªäÕ.
+K
+java:S1185•"(Remove this method to simply inherit it.(èØ¢Ùûÿÿÿÿ8¯æªäÕ.
+E
+java:S1185"(Remove this method to simply inherit it.(ÌÆ¬b8¯æªäÕ.
+d
+java:S1874Ñ"ARemove this use of "getSystemWindowInsetRight"; it is deprecated.(Õ©ùÿÿÿÿ8¯æªäÕ.
+l
+java:S1874u"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(‡Ë°¼üÿÿÿÿ8¯æªäÕ.
+U
+java:S1874O"3Remove this use of "isConnected"; it is deprecated.(ûæ¤ñÿÿÿÿÿ8­¡ªäÕ.
+^
+java:S1874N"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(ö¬¤¨şÿÿÿÿ8¯æªäÕ.
+\
+java:S1874W"?Remove this use of "getInstallerPackageName"; it is deprecated.(°ö½Ú8¯æªäÕ.
+d
+java:S1874Ş"ARemove this use of "replaceSystemWindowInsets"; it is deprecated.(Ã¡îçÿÿÿÿÿ8¯æªäÕ.
+p
+java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(«“·8¯æªäÕ.
+G
+java:S5411h"*Use the primitive boolean expression here.(’éÏ¡8¯æªäÕ.
+U
+java:S1874N"3Remove this use of "NetworkInfo"; it is deprecated.(ö¬¤¨şÿÿÿÿ8¯æªäÕ.
+K
+java:S1185"(Remove this method to simply inherit it.(âöíóûÿÿÿÿ8¯æªäÕ.
+¤
+java:S1186Ó"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÏàÒ§ûÿÿÿÿ8¯æªäÕ.
+c
+java:S1874Ï"@Remove this use of "getSystemWindowInsetLeft"; it is deprecated.(‡âÇ‚ıÿÿÿÿ8­¡ªäÕ.
+K
+java:S1185‹"(Remove this method to simply inherit it.(îŞ¦¶şÿÿÿÿ8¯æªäÕ.
+]
+java:S1874à"?Remove this use of "getSystemWindowInsetTop"; it is deprecated.(®ä‡Ù8Ø¥©äÕ.
+`
+java:S1874â"BRemove this use of "getSystemWindowInsetBottom"; it is deprecated.(ß—Şº8­¡ªäÕ.
+V
+java:S1874"3Remove this use of "insertImage"; it is deprecated.(¿µáĞıÿÿÿÿ8¯æªäÕ.
+E
+java:S1185p"(Remove this method to simply inherit it.(¸æÑ8¯æªäÕ.
+K
+java:S1185†"(Remove this method to simply inherit it.(ç ùüÿÿÿÿ8¯æªäÕ.

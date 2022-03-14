@@ -1,0 +1,37 @@
+
+z
+java:S1450T"XRemove the "googleAds" field and declare it as a local variable in the relevant methods.(±®ìÜûÿÿÿÿ8ç‚áâÕ.
+T
+java:S2696·"6Make the enclosing method "static" or remove this set.(ù¶ì8¨¨áâÕ.
+R
+java:S2440»"/Remove this instantiation of "PermissionUtils".(ò¿ûéùÿÿÿÿ8¨¨áâÕ.
+f
+java:S2095X"IUse try-with-resources or close this "InputStream" in a "finally" clause.(ÿ·ÇÁ8»÷»şÔ.
+i
+java:S1192F"GDefine a constant instead of duplicating this literal "Latest" 3 times.(ØáéÎûÿÿÿÿ8»÷»şÔ.
+X	java:S1109"<This class has 9 parents which is greater than 5 authorized.(²Ú±8»÷»şÔ.
+W
+java:S1874{"5Remove this use of "addTestDevice"; it is deprecated.(ÆŠ¥Åúÿÿÿÿ8¨¨áâÕ.
+P
+java:S1659Q".Declare "visibleItemCount" on a separate line.(ÅÊÉøÿÿÿÿ8ŠÙæÕÕ.
+K
+java:S1185Ø"(Remove this method to simply inherit it.(²öèÏüÿÿÿÿ8¨¨áâÕ.
+R
+java:S3740ˆ"/Provide the parametrized type for this generic.(©Ÿ¾ÿÿÿÿÿ8‡ºşÕÕ.
+I
+java:S1481ë"&Remove this unused "f" local variable.(”Õ±şÿÿÿÿ8¨¨áâÕ.
+X
+java:S2209»"5Change this instance-reference to a static reference.(ò¿ûéùÿÿÿÿ8¨¨áâÕ.
+N
+java:S1659Q",Declare "totalItemCount" on a separate line.(ÅÊÉøÿÿÿÿ8ŠÙæÕÕ.
+X
+java:S1854ë"5Remove this useless assignment to local variable "f".(”Õ±şÿÿÿÿ8¨¨áâÕ.
+R
+java:S1066ë"/Merge this if statement with the enclosing one.(ÂšÅĞúÿÿÿÿ8‡ºşÕÕ.
+
+java:S1450S"]Remove the "interstitialAd" field and declare it as a local variable in the relevant methods.(™ªÿÿÿÿÿ8ç‚áâÕ.
+^	java:S125Ì"<This block of commented-out lines of code should be removed.(´ä²©ıÿÿÿÿ8¨¨áâÕ.
+k
+java:S2095]"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(îûŞÀ8»÷»şÔ.
+X
+java:S2123í":Remove this increment or correct the code not to waste it.(Ô¾ö8¨¨áâÕ.

@@ -1,0 +1,26 @@
+
+g
+java:S1104"RMake mPrefs a static final constant or non-public and provide accessors if needed.(ζ¦Ί
+^
+java:S1874"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(έ¥ωÿÿÿÿ
+t
+java:S3008
+"YRename this field "PREF_APP_RATED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ϊ¬¨Λϋÿÿÿÿ
+€
+java:S1104	"eMake CLICK_COUNT__INTERSTITIAL a static final constant or non-public and provide accessors if needed.(Ν©ϊ«ϊÿÿÿÿ
+
+java:S3008	"dRename this field "CLICK_COUNT__INTERSTITIAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ν©ϊ«ϊÿÿÿÿ
+i
+java:S1104"TMake mContext a static final constant or non-public and provide accessors if needed.(Ω’ώ
+m
+java:S1104"RMake editor a static final constant or non-public and provide accessors if needed.(νώ©†ψÿÿÿÿ
+O
+java:S1444
+"4Make this "public static PREF_APP_RATED" field final(Ϊ¬¨Λϋÿÿÿÿ
+T
+java:S1874"9Remove this use of "PreferenceManager"; it is deprecated.(έ¥ωÿÿÿÿ
+u
+java:S1104
+"ZMake PREF_APP_RATED a static final constant or non-public and provide accessors if needed.(Ϊ¬¨Λϋÿÿÿÿ
+Z
+java:S1444	"?Make this "public static CLICK_COUNT__INTERSTITIAL" field final(Ν©ϊ«ϊÿÿÿÿ

@@ -1,0 +1,36 @@
+
+S
+java:S1117£"<Rename "duration" which hides the field declared at line 49.(£ÿÉ
+F
+java:S1874à"/Remove this use of "execute"; it is deprecated.(‘Õû“
+j
+java:S4042ÿ"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(„€îşÿÿÿÿ
+`
+java:S1874±"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Á…‘
+H
+java:S1874ˆ"1Remove this use of "AsyncTask"; it is deprecated.(†Ò½‹
+j
+java:S4042½"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(„€îşÿÿÿÿ
+Z
+java:S1874‘"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(€‡Äò
+Q
+java:S18747"6Remove this use of "ProgressDialog"; it is deprecated.(¥Ç›“ıÿÿÿÿ
+Z
+java:S1874"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(ùƒ¨š
+?
+java:S1604"(Make this anonymous inner class a lambda(ùƒ¨š
+M
+java:S1874„"6Remove this use of "ProgressDialog"; it is deprecated.(‘õ—™
+2
+java:S3878à"Remove this array creation.(‘Õû“
+I
+java:S1874†"2Remove this use of "setMessage"; it is deprecated.( ½…Ù
+j
+java:S4042î"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(„€îşÿÿÿÿ
+D
+java:S1874ñ".Remove this use of "cancel"; it is deprecated.(¾Ô©O
+—
+java:S1186±"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Á…‘
+C
+java:S1068<"-Remove this unused "flagVideo" private field.(ÁÀË¹
+Q	java:S110."<This class has 9 parents which is greater than 5 authorized.(«ÈÇÁ
